@@ -1,5 +1,5 @@
 //
-//  SVProgressHUD.h
+//  SVProgressHUDView.h
 //  SVProgressHUD, https://github.com/SVProgressHUD/SVProgressHUD
 //
 //  Copyright (c) 2011-2019 Sam Vermette and contributors. All rights reserved.

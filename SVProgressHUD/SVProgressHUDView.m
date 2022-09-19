@@ -1,5 +1,5 @@
 //
-//  SVProgressHUD.h
+//  SVProgressHUDView.m
 //  SVProgressHUD, https://github.com/SVProgressHUD/SVProgressHUD
 //
 //  Copyright (c) 2011-2019 Sam Vermette and contributors. All rights reserved.
@@ -9,7 +9,7 @@
 #error SVProgressHUD is ARC only. Either turn on ARC for the project or use -fobjc-arc flag
 #endif
 
-#import "SVProgressHUD.h"
+#import "SVProgressHUDView.h"
 #import "SVIndefiniteAnimatedView.h"
 #import "SVProgressAnimatedView.h"
 #import "SVRadialGradientLayer.h"
